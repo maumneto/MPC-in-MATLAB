@@ -1,4 +1,4 @@
-# MPC-MATLAB-
+# MPC in MATLAB
 MPC MISO/SISO implementation in MATLAB
 
 # Presentation
