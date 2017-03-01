@@ -9,6 +9,6 @@ Well, in this project, we implement a MPC-MISO (Multiple Inputs - Single Output)
 
 # An implementations list follows:
 - RUBiS data base - rubisData.mat;
-- Code to create transfer functions from database provided - CodeCreateTF.m;
+- Code to create transfer functions from data base provided - CodeCreateTF.m;
 - Code thats implements MPC SISO - SISOexample.m;
 - MPC MISO codes - MpcMisoWithNoise-*.m;
